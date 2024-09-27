@@ -22,7 +22,7 @@ body {
 
 .cartao_conteudo {
     background-color: var(--card-front-color);
-    text-align: center;
+    text-align: center; background-color: aqua;
    /* background-color: aquamarine;*/
     height: 100%;
 }
